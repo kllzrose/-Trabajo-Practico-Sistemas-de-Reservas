@@ -1,1 +1,2 @@
 # -Trabajo-Practico-Sistemas-de-Reservas
+Creé mi proyecto, desarrolle las clases principales y el repositorio donde simula una base de datos, todo esto en la capa de datos; en la de negocio puse reglas como las tarifas y los clientes q tienen sanciones y las referencias que hacen que la capa de negocio apunte a la de datos, así que el negocio le pregunta a los datos y los datos no sabe nada de logica.
